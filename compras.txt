@@ -1,7 +1,7 @@
 arroz
 carne
 leite
-feijao
+feijao branco
 alface
 cafe
 açucar
