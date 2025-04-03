@@ -3,3 +3,5 @@ carne
 leite
 feijao
 alface
+cafe
+açucar
